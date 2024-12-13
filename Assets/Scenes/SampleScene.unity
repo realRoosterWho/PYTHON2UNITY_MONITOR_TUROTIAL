@@ -243,7 +243,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fc3c600a07ab64baa8fa2c9e40b993e4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isUsingLauncher: 0
+  isUsingLauncher: 1
   counter: 0
 --- !u!4 &1413439261
 Transform:
